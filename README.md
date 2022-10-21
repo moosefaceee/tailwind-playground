@@ -39,13 +39,13 @@ npx tailwindcss init -p
 
 7. Ran `yarn dev`
 
-Tada 🎉 you're up and running with Vite, React 18 and Tailwind CSS
+#### Tada 🎉 you're up and running with Vite, React 18, TypeScript and Tailwind CSS 🚀
 
-### Next steps
+## Next steps
 
 First and foremost, please provide feedback any time and as much as possible. I want to make this great, for you. To do that I need your help 💪🏻 GitHub issues is a good place to do so.
 
-This seems obvious, but I highly recommend reading through the 6 items under "What to read next" on the installation screen (https://tailwindcss.com/docs/installation). You'll need an understanding of these concepts to effectively use and contribute to this project, and I don't feel like explaining what is already explained in extensive detail. This will guide you in building #worldclass software
+This seems obvious, but I highly recommend reading through the 6 items under "What to read next" on the installation screen (https://tailwindcss.com/docs/installation). You'll need an understanding of these concepts to effectively use and contribute to this project, and I don't feel like explaining what is already explained in extensive detail. This will guide you in building #worldclass software:
 
 1. https://tailwindcss.com/docs/utility-first
 2. https://tailwindcss.com/docs/responsive-design
@@ -60,3 +60,7 @@ After you've read through this content, I recommend adding the Tailwind intellis
 - Linting. Highlights errors and potential bugs in both your CSS and your markup.
 - Hover Previews. See the complete CSS for a Tailwind class name by hovering over it.
 - Syntax Highlighting. Provides syntax definitions so that Tailwind features are highlighted correctly.
+
+Next up I'm going to try out the Tailwind + Prettier, do we wanna use this or our own prettier config?
+
+- https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted
