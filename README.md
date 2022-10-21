@@ -36,3 +36,18 @@ npx tailwindcss init -p
 7. Ran `yarn dev`
 
 Tada 🎉 you're up and running with Vite, React 18 and Tailwind CSS
+
+### Next steps
+
+First and foremost, please provide feedback any time and as much as possible. I want to make this great, for you. To do that I need your help 💪🏻 GitHub issues is a good place to do so.
+
+This seems obvious, but I highly recommend reading through the 6 items under "What to read next" on the installation screen (https://tailwindcss.com/docs/installation). You'll need an understanding of these concepts to effectively use and contribute to this project, and I don't feel like explaining what is already explained in extensive detail. This will guide you in building #worldclass software
+
+1. https://tailwindcss.com/docs/utility-first
+2. https://tailwindcss.com/docs/responsive-design
+3. https://tailwindcss.com/docs/hover-focus-and-other-states
+4. https://tailwindcss.com/docs/dark-mode
+5. https://tailwindcss.com/docs/reusing-styles
+6. https://tailwindcss.com/docs/adding-custom-styles
+
+After you've read through this content, I recommend adding the Tailwind intellisense extension to VS code. This has a variety of benefits as explained by them "Tailwind CSS IntelliSense enhances the Tailwind development experience by providing Visual Studio Code users with advanced features such as autocomplete, syntax highlighting, and linting."
