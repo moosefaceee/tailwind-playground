@@ -1,3 +1,7 @@
+# Tailwind Playground
+
+## A repository I'll be using to assess Tailwind 🤷🏼‍♂️
+
 ### To simply make use of this template:
 
 1. Clone repository
@@ -50,4 +54,9 @@ This seems obvious, but I highly recommend reading through the 6 items under "Wh
 5. https://tailwindcss.com/docs/reusing-styles
 6. https://tailwindcss.com/docs/adding-custom-styles
 
-After you've read through this content, I recommend adding the Tailwind intellisense extension to VS code. This has a variety of benefits as explained by them "Tailwind CSS IntelliSense enhances the Tailwind development experience by providing Visual Studio Code users with advanced features such as autocomplete, syntax highlighting, and linting."
+After you've read through this content, I recommend adding the Tailwind intellisense extension to VS code. This has a variety of benefits as explained by them such as:
+
+- Autocomplete. Intelligent suggestions for class names, as well as CSS functions and directives.
+- Linting. Highlights errors and potential bugs in both your CSS and your markup.
+- Hover Previews. See the complete CSS for a Tailwind class name by hovering over it.
+- Syntax Highlighting. Provides syntax definitions so that Tailwind features are highlighted correctly.
